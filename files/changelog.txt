@@ -1,2 +1,5 @@
-Version 1.0  (CURRENT VERSION)
+Version 1.1  (CURRENT VERSION)
+* Added science descriptions for EVA report in Jool's atmosphere.
+
+Version 1.0  (2016-02-02)
 * Initial release.
