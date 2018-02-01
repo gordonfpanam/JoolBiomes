@@ -1,0 +1,8 @@
+Version 1.2  (Pre-release) (gordonf) Corrected some problems with Kopernicus 1.3.1-3 and introduced localization.
+Version 1.1  (CURRENT VERSION)
+* Added science descriptions for EVA report in Jool's atmosphere.
+
+
+Version 1.0  (2016-02-02)
+* Initial release.
+
